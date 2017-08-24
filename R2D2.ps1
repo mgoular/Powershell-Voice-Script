@@ -1,4 +1,4 @@
-﻿# Ad account creation via powershell 
+﻿# Get machine current readings with voice with powershell 
 # Script version 1.0 
 # Date : 04/01/2017
 # Michael Goulart
@@ -131,11 +131,6 @@ Function Check-HardwarePerformance
     Return $CPUString + $MemoryString
 
 }
-
-
-
-
-
 
 # All Information collected is feeded to Speech API objects
 # to give it a voice
