@@ -1,7 +1,16 @@
-﻿# Get machine current readings with voice with powershell 
-# Script version 1.0 
-# Date : 04/01/2017
-# Michael Goulart
+################################################################################
+################################################################################
+## Script description                                                         ##
+##                                                                            ##
+## Name      : R2D2.ps1                                                       ##
+## Version   : 0.1                                                            ##
+## Date      :                                                                ##
+## Language  : PowerShell cmd-lets                                            ##
+## License   : MIT                                                            ##
+## Owner     : M.G                                                            ##
+## Authors   : M.G                                                            ##
+################################################################################
+################################################################################
 
 # This function Greets you Depending upon the Time of the day
 
